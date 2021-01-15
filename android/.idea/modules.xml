@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Soundboard.iml" filepath="$PROJECT_DIR$/.idea/modules/Soundboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Soundboard.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Soundboard.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-781962343/Soundboard.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/-781962343/Soundboard.react-native-vector-icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1431649582/Soundboard.react-native-video.iml" filepath="$PROJECT_DIR$/.idea/modules/-1431649582/Soundboard.react-native-video.iml" />
+    </modules>
+  </component>
+</project>
