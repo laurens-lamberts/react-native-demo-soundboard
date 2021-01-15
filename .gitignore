@@ -25,6 +25,7 @@ DerivedData
 #
 build/
 .idea
+android/.gradle
 .gradle
 local.properties
 *.iml
@@ -66,3 +67,4 @@ buck-out/
 ios/tmp.xcconfig
 
 .env
+

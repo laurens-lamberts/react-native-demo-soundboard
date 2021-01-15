@@ -1,6 +1,0 @@
-module Pods_Soundboard {
-  umbrella header "Pods-Soundboard-umbrella.h"
-
-  export *
-  module * { export * }
-}

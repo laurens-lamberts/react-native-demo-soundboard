@@ -1,4 +1,0 @@
-#Fri Jan 15 16:42:37 CET 2021
-base.0=/Users/laurens.lamberts/ws/react-native/react-native-demo-soundboard/Soundboard/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
