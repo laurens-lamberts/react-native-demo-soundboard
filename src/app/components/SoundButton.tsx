@@ -8,7 +8,7 @@ interface Props {
 }
 
 const SoundButton = ({ icon, sound }: Props) => {
-  const BUTTON_SIZE = 114;
+  const BUTTON_SIZE = 104;
   const margin = 12;
 
   return (
