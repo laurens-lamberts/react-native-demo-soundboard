@@ -1,5 +1,5 @@
 import React from "react";
-import SoundButton from "../../app/components/SoundButton";
+import SoundButton from "./components/SoundButton";
 import { Platform, SafeAreaView, ScrollView, View } from "react-native";
 import Sound from "react-native-sound";
 
